@@ -16,6 +16,7 @@
 <a href="https://david-dm.org/Browsersync/browser-sync#info=devDependencies" title="devDependency Status">
  <img src="https://img.shields.io/david/dev/Browsersync/browser-sync.svg?style=flat-square&label=devDeps" />
 </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSelz%2Fbrowser-sync?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSelz%2Fbrowser-sync.svg?type=shield"/></a>
 </p>
 <p align="center"><a href="https://www.browsersync.io"><img src="https://raw.githubusercontent.com/BrowserSync/browsersync.github.io/master/public/img/logo-gh.png" /></a></p>
 <p align="center">Keep multiple browsers & devices in sync when building websites.</p>
@@ -70,3 +71,7 @@ If you've found Browser-sync useful and would like to contribute to its continue
 
 Apache 2
 Copyright (c) 2019 Shane Osbourne
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSelz%2Fbrowser-sync.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSelz%2Fbrowser-sync?ref=badge_large)
